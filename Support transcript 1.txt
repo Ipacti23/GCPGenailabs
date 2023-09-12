@@ -1,0 +1,30 @@
+Customer: Hi, I'm having trouble logging into my Google Workspace account.
+
+Agent: I understand. Can you tell me what happens when you try to sign in?
+
+Customer: I get an error message that says "Invalid username or password."
+
+Agent: Have you tried resetting your password?
+
+Customer: Yes, I have. I've also tried signing in from different devices and browsers, but I'm still getting the same error message.
+
+Agent: Okay, I'm going to need to do some troubleshooting. Can you please tell me your domain name?
+
+Customer: It's example.com.
+
+Agent: Thank you. I'm going to check the status of Google Workspace for your domain.
+
+(A few moments later)
+
+Agent: Okay, it looks like Google Workspace is up and running for your domain. I'm not sure what's causing the problem. I'm going to need to escalate this to a higher level of support.
+
+Customer: Okay, thank you.
+
+Agent: I'll keep you updated on my findings. In the meantime, you can try the following:
+
+Make sure you're using the correct username and password.
+Clear your browser's cache and cookies.
+Try signing in from a different device or network.
+Customer: I'll try those things. Thank you for your help.
+
+Agent: You're welcome. I'll be in touch soon.
