@@ -1,0 +1,22 @@
+Input 1
+
+Brahmastra: Part One – Shiva is a must-watch for all fans of Indian mythology and fantasy. It is a visually stunning film with a gripping story and excellent performances from the cast. The acting could have been better but it is definitely worth a one-time watch
+
+Output 1: 
+Positive
+
+Input 2:
+Liger is a disappointing and forgettable film. It is a mindless action flick with a nonsensical plot and poor acting. Even the good music does not save it.
+
+Output 2:
+Negative
+
+Input 3:
+Raksha Bandhan is a well-intentioned film with a good message, but it is poorly executed in some parts.
+
+Output 3:
+Neutral
+
+Actual prompt:
+Dobaaraa is a thought-provoking film with a unique concept, but it is also slow-paced and confusing at times.
+
