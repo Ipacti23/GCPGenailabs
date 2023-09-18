@@ -1,0 +1,35 @@
+Training and running neural networks often requires hardware acceleration, and the most popular hardware accelerator is the venerable graphics processing unit, or GPU.
+
+We have assembled cloud GPU vendor pricing all into tables, sortable and filterable to your liking!
+
+We have split the vendor offerings into two classes:
+
+GPU Cloud Servers, which are long-running (but possibly pre-emptible) machines, and
+Severless GPUs, which are machines that scale-to-zero in the absence of traffic (like an AWS Lambda or Google Cloud Function)
+
+Notes
+The table below does not include all possible configurations for all providers, as providers differ in their configuration strategy.
+
+Most providers, including AWS, Azure, and Lambda, provide instances with pre-set configurations.
+On GCP, any suitable machine can be connected to a configuration of GPUs.
+On other providers, like Oblivus Cloud, Cudo Compute, and RunPod, users have precise control over the resources they request. Note that RunPod's Community Cloud, Oblivus, and Cudo are all "open clouds", meaning compute is provided by third parties.
+For providers without pre-set instance configurations, we have selected configurations that are roughly equivalent to AWS's options. Generally, these configurations are good for workloads that require heavy inter-GPU communication.
+Where possible, regions were set to be the west or central parts of the United States. GPU availability depends on the region.
+Raw data can be found in a csv on GitHub.
+Costs can be substantially reduced via preemption recovery and failover across clouds. If you don't want to roll your own, consider a tool like SkyPilot.
+
+
+Input: What classes of vendor offerings are there for GPUs?
+
+Output: 
+GPU Cloud Servers, which are long-running (but possibly pre-emptible) machines, and
+Severless GPUs, which are machines that scale-to-zero in the absence of traffic (like an AWS Lambda or Google Cloud Function)
+
+Input:
+What are serverless GPUs?
+
+Ouput:
+Severless GPUs, are machines that scale-to-zero in the absence of traffic (like an AWS Lambda or Google Cloud Function)
+
+Prompt:
+What kind of configurations have the authors selected for providers without pre-set configurations?
